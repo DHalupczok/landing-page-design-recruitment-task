@@ -98,3 +98,7 @@ h3 {
 .justify-self-center {
     justify-self: center;
 }
+
+.d-inline {
+    display: inline;
+}
